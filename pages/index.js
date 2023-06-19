@@ -22,7 +22,6 @@ export default function Home() {
 					See Ninja Listing
 				</Link>
 			</div>
-			4
 		</>
 	);
 }
